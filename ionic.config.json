@@ -1,0 +1,7 @@
+{
+  "name": "discordNotify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
